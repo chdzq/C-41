@@ -23,6 +23,7 @@
     // Override point for customization after application launch.
     
     // Setup window
+    
     self.window.tintColor = [UIColor colorWithHexString:@"9E4B10"];
 
     // Setup view controllers
